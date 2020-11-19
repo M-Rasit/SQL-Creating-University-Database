@@ -1,6 +1,6 @@
 Hi,
 
-I created University Database these under rules and constraints;
+I created University Database under these rules and constraints;
 
 An e-learning university needs to keep details of its students and staff, the courses that
 it offers and the performance of the students who study its courses. The university is
